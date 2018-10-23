@@ -10,6 +10,4 @@ public interface CategoryService {
 
     CategoryDTO getCategoryByName(String name);
 
-
-
 }
